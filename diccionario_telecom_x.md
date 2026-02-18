@@ -1,0 +1,24 @@
+# Diccionario de datos
+
+- `cliente_id` : número de identificación único de cada cliente
+- `cancelacion`: si el cliente dejó o no la empresa
+- `genero`: género (masculino y femenino)
+- `adulto_mayor` información sobre si un cliente tiene o no una edad igual o mayor a 65 años
+- `pareja`: si el cliente tiene o no una pareja
+- `dependientes`: si el cliente tiene o no dependientes
+- `meses_antiguedad`: meses de contrato del cliente
+- `servicio_telefonico`: suscripción al servicio telefónico
+- `multiples_lineas`: suscripción a más de una línea telefónica
+- `servicio_internet`: suscripción a un proveedor de internet
+- `seguridad_en_linea`: suscripción adicional de seguridad en línea
+- `copia_seguridad_en_linea`: suscripción adicional de respaldo en línea
+- `proteccion_dispositivos`: suscripción adicional de protección del dispositivo
+- `soporte_tecnologico`: suscripción adicional de soporte técnico, menor tiempo de espera
+- `streaming_tv`: suscripción de televisión por cable
+- `streaming_peliculas`: suscripción de streaming de películas
+- `contrato`: tipo de contrato
+- `factura_en_linea`: si el cliente prefiere recibir la factura en línea
+- `metodo_pago`: forma de pago
+- `cargo_mensual`: total de todos los servicios del cliente por mes
+- `cargo_total`: total gastado por el cliente
+- `cuentas_diarias`: total estimado gastado por el cliente diariamente

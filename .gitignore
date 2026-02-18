@@ -1,0 +1,14 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Archivos test
+test*.*
+
+# Archivo generados
+*.png
+*.png
+
+# Excepciones
+!datos_*.csv
+!*imagen.png
